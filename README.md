@@ -5,9 +5,6 @@
 </a>
 
 ---
-
-## Main Python Code is found in 'Main.py'
-
 ### Setup
 
 1. Install [uv](https://docs.astral.sh/uv/getting-started/installation/):
