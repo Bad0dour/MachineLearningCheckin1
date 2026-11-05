@@ -4,12 +4,35 @@
    <img src="distribution/download-button.svg" alt="Download" height="60">
 </a>
 
+---
+
 ## Main Python Code is found in 'Main.py'
 
-Command to install venv and specific packages:
-$ python3 -m venv .venv && source .venv/bin/activate && pip install -r BoringStuff/requirements.txt
-uv venv
-uv pip install -r requirements.txt
+### Setup
 
-Then run Main.py in terminal making sure you are successfully in the venv:
-$ python3 Main.py
+1. Install [uv](https://docs.astral.sh/uv/getting-started/installation/):
+
+   **macOS / Linux**
+   ```bash
+   curl -LsSf https://astral.sh/uv/install.sh | sh
+   ```
+
+   **Windows**
+   ```powershell
+   powershell -ExecutionPolicy ByPass -c "irm https://astral.sh/uv/install.ps1 | iex"
+   ```
+
+2. In the project folder, run:
+   ```bash
+   uv run Main.py
+   ```
+
+uv automatically installs Python 3.13 and the packages listed in `pyproject.toml` into a local `.venv` the first time it runs. No manual venv activation needed.
+
+### Other files
+
+You can ignore everything else (they're just there to keep the project set up):
+- `pyproject.toml`: project info and the list of packages it needs
+- `uv.lock`: the exact package versions, so everyone gets the same setup
+- `.python-version`: the Python version uv uses
+- `.gitignore`: files git shouldn't upload
