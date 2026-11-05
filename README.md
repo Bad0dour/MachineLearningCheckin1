@@ -1,7 +1,7 @@
 # *Machine Learning Check-in 1*
 
 <a href="https://github.com/Bad0dour/MachineLearningCheckin1/archive/refs/heads/main.zip">
-   <img src="BoringStuff/download-button.svg" alt="Download" height="60">
+   <img src="distribution/download-button.svg" alt="Download" height="60">
 </a>
 
 ## Main Python Code is found in 'Main.py'
