@@ -1,7 +1,7 @@
 ***************Machine Learning Check-in 1***************
 
 **Main Python Code is found in 'Main.py'**
-[![Download](distribution/Download.svg)](https://github.com/Bad0dour/Tic-Tac-Toe/archive/refs/heads/main.zip)
+[![Download](BoringStuff/Download.svg)](https://github.com/Bad0dour/Tic-Tac-Toe/archive/refs/heads/main.zip)
 
 Command to install venv and specific packages:
 $ python3 -m venv .venv && source .venv/bin/activate && pip install -r BoringStuff/requirements.txt
