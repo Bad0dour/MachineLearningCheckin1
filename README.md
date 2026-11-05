@@ -1,6 +1,6 @@
 # *Machine Learning Check-in 1*
 
-<a href="https://github.com/Bad0dour/Tic-Tac-Toe/archive/refs/heads/main.zip">
+<a href="https://github.com/Bad0dour/MachineLearningCheckin1/archive/refs/heads/main.zip">
    <img src="BoringStuff/download-button.svg" alt="Download" height="60">
 </a>
 
