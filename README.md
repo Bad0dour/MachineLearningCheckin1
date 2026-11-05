@@ -1,6 +1,6 @@
 # Machine Learning Check-in 1
 
-[![Download](BoringStuff/download-button.svg)](https://github.com/Bad0dour/Tic-Tac-Toe/archive/refs/heads/main.zip)
+# [![Download](BoringStuff/download-button.svg)](https://github.com/Bad0dour/Tic-Tac-Toe/archive/refs/heads/main.zip)
 
 ### **Main Python Code is found in 'Main.py'**
 
